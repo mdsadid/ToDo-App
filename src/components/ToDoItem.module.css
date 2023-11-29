@@ -1,0 +1,31 @@
+.todo-items {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0;
+    align-items: center;
+}
+
+.todo-items-container {
+    display: flex;
+}
+
+.todo-item-text {
+    padding-left: 16px;
+    color: #404040;
+    font-size: 22px;
+}
+
+.cross-icon {
+    cursor: pointer;
+    padding-right: 10px;
+}
+
+.not-tick-icon,
+.tick-icon {
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.done-todo {
+    text-decoration: line-through solid #ADADAD 3px;
+}

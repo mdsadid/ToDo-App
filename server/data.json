@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "15a7ac5f-ca12-4323-a5ef-c32dd1f4c679",
+      "text": "Learn Next.js",
+      "display": ""
+    },
+    {
+      "id": "54a21ed0-3813-4760-a43e-a08f7a75a838",
+      "text": "Learn React",
+      "display": "line-through"
+    },
+    {
+      "id": "e94a998c-ed00-46c2-93a9-d10e0ea0c568",
+      "text": "Learn Vue.js",
+      "display": "line-through"
+    },
+    {
+      "id": "93bd3bfe-ea9e-4a5f-b873-a48a4bfe7260",
+      "text": "Learn Nuxt.js",
+      "display": ""
+    },
+    {
+      "id": "b1cf035f-4c49-4990-af29-a29deef57962",
+      "text": "Learn Angular",
+      "display": ""
+    }
+  ]
+}
