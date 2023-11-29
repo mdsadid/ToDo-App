@@ -7,3 +7,5 @@ Check out this straightforward to-do app created using React JS. It helps you or
 This application incorporates a convenient 'Add Task' feature, allowing users to seamlessly create new tasks. The tasks are displayed in a comprehensive list for easy reference. To manage and persist these tasks, the application utilizes the npm package 'json-server.' Users can mark tasks as complete or incomplete, and completed tasks can be easily deleted. Thanks to the integration of 'json-server,' the app ensures data persistence, meaning that even if the page is refreshed, the exact to-do tasks, along with their complete or incomplete status, will be retained and displayed accurately.
 
 # Preview
+
+![Screenshot from 2023-11-29 13-00-13](https://github.com/mdsadid/ToDo-App/assets/33181298/28d3d504-0c4b-413e-b7eb-1fb320902066)
